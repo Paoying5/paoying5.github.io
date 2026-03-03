@@ -19,7 +19,7 @@ A modern, multilingual (🇻🇳 🇬🇧 🇷🇺 🇨🇳 🇰🇷 🇯🇵) p
 
 ## 🖥️ Live Demo
 
-> 🔗 [View Live Site](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID)
+> 🔗 [View Live Site](https://paoying5.github.io)
 
 ---
 
